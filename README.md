@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @glowcap
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Daymein
+- 🏢 Core iOS Developer @adt
+- 🏠 WFH or 🇯🇵 WFJ 
+- 🌱 Currently learning @supabase and @flutter
+- 💞️ Looking to collaborate/mentor on SwiftUI projects
+- 🦕 Reach me on Mastodon @daymein@hachyderm.io
 
 <!---
 glowcap/glowcap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
