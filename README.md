@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daymein
-- 🏢 Core iOS Developer @adt
+- 🏢 Sr iOS Developer @adt
 - 🏠 WFH or 🇯🇵 WFJ 
 - 🌱 Currently learning @supabase and @flutter
 - 💞️ Looking to collaborate/mentor on SwiftUI projects
