@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daymein
 - 🏢 Sr iOS Developer @adt
 - 🏠 WFH or 🇯🇵 WFJ 
-- 🌱 Currently learning @supabase and @flutter
+- 🌱 Currently learning @flutter
 - 💞️ Looking to collaborate/mentor on SwiftUI projects
 - 🦕 Reach me on Mastodon @daymein@hachyderm.io
 
