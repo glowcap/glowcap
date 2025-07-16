@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Daymein
-- 🏢 Sr iOS Developer @adt
+- 👋 Hi, I’m Daymein (day•me•in)
+- 🏢 Sr iOS Developer @cvs
 - 🏠 WFH or 🇯🇵 WFJ 
 - 🌱 Currently learning @flutter
 - 💞️ Looking to collaborate/mentor on SwiftUI projects
-- 🦕 Reach me on Mastodon @daymein@hachyderm.io
 
 <!---
 glowcap/glowcap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
